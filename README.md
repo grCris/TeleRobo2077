@@ -9,12 +9,12 @@ O AGV seguidor de linha sairá de um ponto A e irá até um ponto B. Durante o p
 ### Detalhes do estado atual do projeto:
   - O controlador é um Uno BlackBoard R3(mas pode ser utilizado um arduino comum);
   - O driver dos motores DC, é um shield Motor L293D (baseado no AdaFruit Motor Shield V1.2);
-  - O circuito é construido em uma base branca com fita isolante preta sendo o circuito;
+  - O circuito é construído em uma base branca com fita isolante preta sendo o circuito;
   - Para a detecção da linha, são utilizados sensores 5 óptico reflexivo TCRT500;
-  - No modo atual o AGV está percorrendo o circuito de forma satisfatoria;
+  - No modo atual o AGV está percorrendo o circuito de forma satisfatória;
   - Ele detecta a linha perpendicular para.
   
 ### Implementações futuras:
   - Parte do código para detectar a carga;
-  - Seguencia de funcionamento como é descrito na proposta final.
+  - Sequencia de funcionamento como é descrito na proposta final.
   
