@@ -1,5 +1,5 @@
 //Programa: Robo seguidor de linha, três sensores optico reflexivos TCRT5000,
-//          motor shield LM293D.
+//          motor shield L293D.
 //Autor: Cristiano Geraldo Rezende
 //Data: 11/11/2018 21:05
 
