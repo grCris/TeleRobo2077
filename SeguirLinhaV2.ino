@@ -2,6 +2,7 @@
 //          motor shield LM293D.
 //Autor: Cristiano Geraldo Rezende
 //Data: 18/11/2018 12:16
+//Versão: 2
 
 #include <AFMotor.h>
 
