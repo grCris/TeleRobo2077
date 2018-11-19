@@ -8,7 +8,7 @@
 
 // Define o motor esquerdo ligado a conexao 4
 AF_DCMotor motor_left(4);
-// Define o motor esquerdo ligado a conexao 4
+// Define o motor direito ligado a conexao 1
 AF_DCMotor motor_right(1);
 
 // define as constantes para os pinos onde os sensores estão conectados
