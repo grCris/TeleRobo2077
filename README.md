@@ -12,7 +12,7 @@ O AGV seguidor de linha sairá de um ponto A e irá até um ponto B. Durante o p
   - O circuito é construído em uma base branca com fita isolante preta sendo o circuito;
   - Para a detecção da linha, são utilizados sensores 5 óptico reflexivo TCRT500;
   - No modo atual o AGV está percorrendo o circuito de forma satisfatória;
-  - Ele detecta a linha perpendicular para.
+  - Ele detecta a linha perpendicular a do circuito e para.
   
 ### Implementações futuras:
   - Parte do código para detectar a carga;
