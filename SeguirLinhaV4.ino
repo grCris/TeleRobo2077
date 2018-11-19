@@ -1,4 +1,4 @@
-//Programa: Robo seguidor de linha, três sensores optico reflexivos TCRT5000, motor shield LM293D.
+//Programa: Robo seguidor de linha, cinco sensores optico reflexivos TCRT5000, motor shield LM293D.
 //Autor: Grupo TeleRobo2077
 //Data: 18/11/2018 14:17
 //Versão 4 - utliza os 5 sensores e para quando encontra uma linha na perpendicular
